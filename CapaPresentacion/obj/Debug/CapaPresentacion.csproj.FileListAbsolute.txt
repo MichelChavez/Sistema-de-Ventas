@@ -42,3 +42,19 @@ D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\Cap
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria1.resources
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources

@@ -42,8 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="clsArticulo.cs" />
     <Compile Include="clsCaterogoria.cs" />
+    <Compile Include="clsCliente.cs" />
     <Compile Include="ClsConexion.cs" />
+    <Compile Include="clsDetalle_Ingreso.cs" />
+    <Compile Include="clsPresentacion.cs" />
+    <Compile Include="clsProveedor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

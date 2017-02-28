@@ -8,6 +8,6 @@ namespace CapaDatos
 {
     class ClsConexion
     {
-        public static string Cn = "SERVER=WD09-2;DATABASE=dbVentas;USER=sa;PWD=continental";
+        public static string Cn = "SERVER=CHAVEZ;DATABASE=dbVentas;USER=sa;PWD=continental";
     }
 }

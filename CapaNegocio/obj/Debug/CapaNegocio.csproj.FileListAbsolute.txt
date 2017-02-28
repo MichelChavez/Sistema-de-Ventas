@@ -26,3 +26,10 @@ D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDato
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb

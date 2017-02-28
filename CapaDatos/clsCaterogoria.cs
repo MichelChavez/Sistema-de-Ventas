@@ -85,7 +85,6 @@ namespace CapaDatos
         }
 
         
-
         //metodo insertar :D
         public string Insertar(clsCaterogoria Categoria)
         {
@@ -290,11 +289,6 @@ namespace CapaDatos
             }
             return DtResultado;
         }
-       
-
-
-
-
 
     }
 }

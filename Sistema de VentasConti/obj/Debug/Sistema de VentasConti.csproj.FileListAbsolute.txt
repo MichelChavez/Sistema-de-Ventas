@@ -55,3 +55,17 @@ D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Deb
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csprojResolveAssemblyReference.cache
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema_de_VentasConti.Properties.Resources.resources
 D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csproj.GenerateResource.Cache
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe.config
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.exe
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\CapaPresentacion.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\CapaNegocio.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\CapaDatos.dll
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\CapaPresentacion.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\CapaNegocio.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\bin\Debug\CapaDatos.pdb
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csprojResolveAssemblyReference.cache
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\obj\Debug\Sistema_de_VentasConti.Properties.Resources.resources
+C:\Users\CHÁVEZ\Documents\GitHub\Sistema-de-Ventas\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csproj.GenerateResource.Cache
