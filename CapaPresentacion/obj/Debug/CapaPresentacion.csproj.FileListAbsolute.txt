@@ -1,0 +1,44 @@
+E:\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria1.resources
+E:\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria1.resources
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria1.resources
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria1.resources
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

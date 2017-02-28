@@ -1,0 +1,20 @@
+E:\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaDatos\obj\Debug\CapaDatos.pdb

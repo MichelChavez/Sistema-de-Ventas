@@ -1,0 +1,57 @@
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe.config
+F:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe.config
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.pdb
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.dll
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.dll
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.dll
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.pdb
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.pdb
+E:\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.pdb
+E:\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csprojResolveAssemblyReference.cache
+E:\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema_de_VentasConti.Properties.Resources.resources
+E:\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csproj.GenerateResource.Cache
+E:\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.exe
+E:\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe.config
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.exe
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csprojResolveAssemblyReference.cache
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema_de_VentasConti.Properties.Resources.resources
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csproj.GenerateResource.Cache
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe.config
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.exe
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csprojResolveAssemblyReference.cache
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema_de_VentasConti.Properties.Resources.resources
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csproj.GenerateResource.Cache
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe.config
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.exe
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.exe
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\Sistema de VentasConti.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaPresentacion.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaNegocio.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\bin\Debug\CapaDatos.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csprojResolveAssemblyReference.cache
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema_de_VentasConti.Properties.Resources.resources
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\Sistema de VentasConti\obj\Debug\Sistema de VentasConti.csproj.GenerateResource.Cache

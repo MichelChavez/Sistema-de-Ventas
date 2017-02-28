@@ -1,0 +1,28 @@
+E:\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.pdb
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.dll
+H:\MCHAVEZ\DATOS\sistema ventas\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.pdb
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.dll
+I:\MCHAVEZ\DATOS\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\SISTEMA DE VENTAS CONTI\Sistema de VentasConti\CapaNegocio\obj\Debug\CapaNegocio.pdb
